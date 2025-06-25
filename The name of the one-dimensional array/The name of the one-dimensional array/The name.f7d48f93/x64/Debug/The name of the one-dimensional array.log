@@ -1,0 +1,8 @@
+﻿  The name of the one-dimensional array.cpp
+D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\The name of the one-dimensional array.cpp(19,37): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\The name of the one-dimensional array.cpp(19,37): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\The name of the one-dimensional array.cpp(20,52): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\The name of the one-dimensional array.cpp(20,52): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\The name of the one-dimensional array.cpp(21,52): warning C4311: “类型强制转换”: 从“int *”到“int”的指针截断
+D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\The name of the one-dimensional array.cpp(21,52): warning C4302: “类型强制转换”: 从“int *”到“int”截断
+  The name of the one-dimensional array.vcxproj -> D:\VS works\C++ works\The name of the one-dimensional array\The name of the one-dimensional array\x64\Debug\The name of the one-dimensional array.exe
