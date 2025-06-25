@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Nested if statement", "Nested if statement.vcxproj", "{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{4D1AC582-8087-5490-FCC2-03CEC5D22547}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Debug|x64.ActiveCfg = Debug|x64
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Debug|x64.Build.0 = Debug|x64
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Debug|x86.ActiveCfg = Debug|Win32
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Debug|x86.Build.0 = Debug|Win32
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Release|x64.ActiveCfg = Release|x64
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Release|x64.Build.0 = Release|x64
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Release|x86.ActiveCfg = Release|Win32
+		{C1BD19CA-7D08-4BE3-A095-FF7F82EBAD7E}.Release|x86.Build.0 = Release|Win32
+		{4D1AC582-8087-5490-FCC2-03CEC5D22547}.Debug|x64.ActiveCfg = Debug
+		{4D1AC582-8087-5490-FCC2-03CEC5D22547}.Debug|x86.ActiveCfg = Debug
+		{4D1AC582-8087-5490-FCC2-03CEC5D22547}.Release|x64.ActiveCfg = Release
+		{4D1AC582-8087-5490-FCC2-03CEC5D22547}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B0EEE08A-E562-41DA-9CDC-ACE4645A8DFE}
+	EndGlobalSection
+EndGlobal
